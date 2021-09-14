@@ -1,11 +1,16 @@
 _repo: Roses-or-a-Monograph-on-The-Genus-Rosa_66266
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66266-h/images/cover.jpg
 creator:
   author:
     agent_name: Andrews, Henry C.
     gutenberg_agent_id: '53717'
     url: http://www.gutenberg.org/2009/agents/53717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66266#Roses-or-a-Monograph-on-The-Genus-Rosa
 gutenberg_issued: '2021-09-11'
 identifiers:
   gutenberg: '66266'
